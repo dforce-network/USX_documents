@@ -10,11 +10,11 @@ This repository contains a Markdown snapshot of the **USX - 2024.6** documentati
 ## Read
 
 - Open `docs.md` directly in GitHub, or in any Markdown editor (VS Code, Typora, Obsidian, etc.).
-- Images referenced like `USX%20-%202024%206/Untitled.png` should render correctly as long as the folder name and filenames are unchanged.
+- Images referenced like ``USX - 2024 6/Untitled.png` should render correctly as long as the folder name and filenames are unchanged.
 
 ## Editing / Updating
 
-- Keep asset paths stable (the doc currently references images using URL-encoded spaces: `USX%20-%202024%206/...`).
+- Keep asset paths stable (the doc currently references images using URL-encoded spaces: `USX - 2024 6/...`).
 - If you rename/move images, update the corresponding links in `docs.md`.
 
 ## Contributing
